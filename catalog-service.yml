@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://192.168.0.17:3306/msa-catalog
+    username: root
+    password: "{cipher}AQBbENL04gaOu1udv9DBTyZkUWxZnFyn98hFMnqQuQge+NO4BldINK84Qxh89srSr5U+zd1ButHS5nl0bJd0StPa76+pgNYH/EWL35P9Dc/MZVojIk6Hh5eSeHU0KKERl6bq2NRQKHPN1K7vTWlpZSMdgE6dcx1aTq7tVWNMq/bziK0NKEx+NSrK5z+8vOy3uSwHSbO8+ztql4tjSv3Hg0deEMGVlGLH6JX2iT2dTkNVpB836LScfDxoQ0L0FoyXkWWpT0E8+OrGpQDcb382guQv+wbBGIwlQ8EaydR+qsy7kwUKNBhjMq6GQek9DwmxmXc6nJKFOtl4o8jbgIEuwV4Zrck8ZWH8bu468NF/YykWy3XmSiDI2LhfpRdSdCQ75WA="
+    driver-class-name: org.mariadb.jdbc.Driver
